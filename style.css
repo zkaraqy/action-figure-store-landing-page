@@ -12,12 +12,14 @@ html {
 }
 
 body {
-  background: rgb(0, 0, 128);
+  background-image: url(geomatric-bg.jpg);
+  background-size: cover;
+  /* background: rgb(0, 0, 128);
   background: linear-gradient(
     0deg,
     rgba(0, 0, 128, 0.7847514005602241) 0%,
     rgba(0, 0, 128, 0) 100%
-  );
+  ); */
 }
 
 .navigation {
